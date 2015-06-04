@@ -1,3 +1,3 @@
 # highlight-nbsp package
 
-This will highlight no-break spaces in text files.
+Atom package to highlight no-break spaces in text files.
