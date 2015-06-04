@@ -1,0 +1,15 @@
+{
+  "name": "highlight-nbsp",
+  "main": "./lib/highlight-nbsp",
+  "version": "0.0.0",
+  "description": "Show no-break space highlighted.",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/highlight-nbsp",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
