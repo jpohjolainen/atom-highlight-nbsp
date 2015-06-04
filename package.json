@@ -5,7 +5,7 @@
   "description": "Show no-break space highlighted.",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/highlight-nbsp",
+  "repository": "https://github.com/jpohjolainen/atom-highlight-nbsp",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
