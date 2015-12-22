@@ -1,1 +1,2 @@
-This file contains nbsp characters.
+This file contains bad characters.
+¦ «  
