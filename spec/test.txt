@@ -1,2 +1,2 @@
-This file contains bad characters.
-¦ «  
+This line contains bad characters. ¦ «
+This line should not. ?{}[]<>!$%^&/|\_!'"`~;:

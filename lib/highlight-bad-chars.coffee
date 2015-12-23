@@ -25,15 +25,15 @@ chars = [
   '\xB1'  # modifier - under line
 ]
 
-charRegExp = '[' + chars.join('|') + ']'
+charRegExp = '[' + chars.join('') + ']'
 
-module.exports = HighlightNbsp =
+module.exports = HighlightBadChars =
 
   activate: (state) ->
     @decorations = []
     badchars = new RegExp(charRegExp, 'g')
 
-    console.log 'highlight-badchars activate.'
+    console.log 'highlight-bad-chars activate.'
     atom.workspace.observeTextEditors (editor) =>
       editor.onDidStopChanging =>
         d.getMarker().destroy() for d in @decorations
