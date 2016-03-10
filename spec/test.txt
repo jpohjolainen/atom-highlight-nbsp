@@ -1,2 +1,3 @@
 This line contains bad characters. ¦ «
+This line contains invisible characters: 
 This line should not. ?{}[]<>!$%^&/|\_!'"`~;:
