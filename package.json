@@ -1,9 +1,14 @@
 {
   "name": "highlight-bad-chars",
   "main": "./lib/highlight-bad-chars",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Highlight bad Unicode characters that can cause hard to spot syntax errors.",
-  "keywords": [],
+  "keywords": [
+    "highlight",
+    "unicode",
+    "invisible characters",
+    "confusables"
+  ],
   "repository": "https://github.com/ohanhi/atom-highlight-bad-chars",
   "license": "MIT",
   "engines": {
