@@ -71,7 +71,7 @@ module.exports = HighlightBadChars =
 
     console.log 'highlight-bad-chars activate.'
     atom.workspace.observeTextEditors (editor) =>
-      editor.onDidStopChanging =>
+      editor.onDidChange =>
         d.getMarker().destroy() for d in @decorations
         @decorations = []
 
