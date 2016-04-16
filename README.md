@@ -9,8 +9,8 @@ Save yourself the burden of debugging invisible bugs for hours!
 
 ## Before
 
-![](images/before.png)
+![](https://github.com/ohanhi/atom-highlight-bad-chars/raw/master/images/before.png)
 
 ## After
 
-![](images/after.png)
+![](https://github.com/ohanhi/atom-highlight-bad-chars/raw/master/images/after.png)
