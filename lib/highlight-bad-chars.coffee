@@ -62,7 +62,6 @@ chars = [
   '\u00B8',  # cadilla
   '\u01C0',  # latin letter dental click
   '\u2223',  # divides
-
 ]
 
 charRegExp = '[' + chars.join('') + ']'
