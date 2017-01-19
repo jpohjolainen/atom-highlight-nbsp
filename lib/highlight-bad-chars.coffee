@@ -40,6 +40,7 @@ chars = [
   '\u2009', # thin space
   '\u200A', # hair space
   '\u200B', # zero width space
+  '\u200D', # zero width joiner
   '\u2013',  # en dash
   '\u2014',  # em dash
   '\u202F', # narrow no-break space
