@@ -40,6 +40,9 @@ chars = [
   '\u2009', # thin space
   '\u200A', # hair space
   '\u200B', # zero width space
+  '\u200D', # zero width joiner
+  '\u2013',  # en dash
+  '\u2014',  # em dash
   '\u202F', # narrow no-break space
   '\u205F', # medium mathematical space
   '\u3000', # ideographic space
@@ -57,6 +60,7 @@ chars = [
   '\u0090',  # <control>
   '\u009B',  # <control>
   '\u009F',  # <control>
+  '\u00B8',  # cadilla
   '\u01C0',  # latin letter dental click
   '\u2223',  # divides
 ]
