@@ -81,5 +81,5 @@ module.exports = HighlightBadChars =
         @decorations = []
 
         editor.scan badchars, (obj) =>
-          mark = editor.markBufferRange(obj.range, {persistent: false})
+          mark = editor.markBufferRange(obj.range)
           @decorations.push editor.decorateMarker mark, {type: 'highlight', class: 'highlight-bad-chars'}
