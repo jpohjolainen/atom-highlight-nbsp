@@ -43,6 +43,7 @@ chars = [
   '\u200D', # zero width joiner
   '\u2013',  # en dash
   '\u2014',  # em dash
+  '\u2028',  # line separator space
   '\u202F', # narrow no-break space
   '\u205F', # medium mathematical space
   '\u3000', # ideographic space
