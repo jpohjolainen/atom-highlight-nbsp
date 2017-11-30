@@ -1,10 +1,15 @@
 {
-  "name": "highlight-nbsp",
-  "main": "./lib/highlight-nbsp",
-  "version": "0.1.1",
-  "description": "Show no-break space highlighted.",
-  "keywords": [],
-  "repository": "https://github.com/jpohjolainen/atom-highlight-nbsp",
+  "name": "highlight-bad-chars",
+  "main": "./lib/highlight-bad-chars",
+  "version": "1.0.7",
+  "description": "Highlight bad Unicode characters that can cause hard to spot syntax errors.",
+  "keywords": [
+    "highlight",
+    "unicode",
+    "invisible characters",
+    "confusables"
+  ],
+  "repository": "https://github.com/ohanhi/atom-highlight-bad-chars",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"

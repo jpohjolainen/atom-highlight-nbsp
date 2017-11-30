@@ -4,6 +4,7 @@
 // for a full listing of what's available.
 @import "syntax-variables";
 
-.highlight-nbsp .region {
-  background-color: @syntax-color-removed;
+.highlight-bad-chars .region {
+  background-color: fadeout(@text-color-error, 50%);
+  border: 1px solid @text-color-error;
 }

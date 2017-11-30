@@ -1,10 +1,16 @@
-# highlight-nbsp package
+# Highlight Bad Chars
 
-Atom package to highlight no-break spaces in text files.
+Atom package to highlight bad characters such as No-break space ( ) and the Greek question mark (;) in your source files.
 
-No-break spaces happen easily when accidentally pressing `alt-space` in atom
-or other editors. It is hard to spot as it looks like normal space character,
-but that one character will mess up source codes and scripts alike.
+With this package you'll easily notice invisible and easy-to-confuse characters,
+which can be the cause for incredibly annoying syntax errors in source code.
 
-With this package you'll easily notice annoying invisible character and save
-yourself of the burden to debug code for hours.
+Save yourself the burden of debugging invisible bugs for hours!
+
+## Before
+
+![](https://github.com/ohanhi/atom-highlight-bad-chars/raw/master/images/before.png)
+
+## After
+
+![](https://github.com/ohanhi/atom-highlight-bad-chars/raw/master/images/after.png)
