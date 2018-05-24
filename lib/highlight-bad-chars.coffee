@@ -65,6 +65,7 @@ chars = [
   '\u01C0',  # latin letter dental click
   '\u2223',  # divides
   '\u0003',  # Start of text
+  '\u201A',  # Low quotation mark - looks like comma
 ]
 
 charRegExp = '[' + chars.join('') + ']'
