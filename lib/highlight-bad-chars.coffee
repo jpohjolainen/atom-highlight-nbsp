@@ -66,8 +66,8 @@ chars = [
   '\u2223',  # divides
   '\u0003',  # Start of text
   '\u201A',  # Low quotation mark - looks like comma
-  '\u02C2',  # modifier letter left arrowhead (< doppelganger)
-  '\u02C3',  # modifier letter right arrowhead (> doppelganger)
+  '\u02C2',  # Modifier Letter Left Arrowhead [< doppelganger]
+  '\u02C3',  # Modifier Letter Right Arrowhead [> doppelganger]
 ]
 
 charRegExp = '[' + chars.join('') + ']'
