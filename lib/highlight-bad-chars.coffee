@@ -1,27 +1,27 @@
 
 chars = [
   # https://github.com/possan/sublime_unicode_nbsp/blob/master/sublime_unicode_nbsp.py
-  '\x82', # Break Permitted Here [high code comma]
-  '\x84', # Control 0084 [high code double comma]
-  '\x85', # Next Line (Nel) [tripple dot]
-  '\x88', # Character Tabulation Set [high caret]
-  '\x91', # Private Use One [forward single quote]
-  '\x92', # Private Use Two [reverse single quote]
-  '\x93', # Set Transmit State [forward double quote]
-  '\x94', # Cancel Character [reverse double quote]
-  '\x95', # Message Waiting [middle dot]
-  '\x96', # Start Of Guarded Area [high hyphen]
-  '\x97', # End Of Guarded Area [double hyphen]
+  '\x82', # Break Permitted Here [High code comma]
+  '\x84', # Control 0084 [High code double comma]
+  '\x85', # Next Line (Nel) [Tripple dot]
+  '\x88', # Character Tabulation Set [High caret]
+  '\x91', # Private Use One [Forward single quote]
+  '\x92', # Private Use Two [Reverse single quote]
+  '\x93', # Set Transmit State [Forward double quote]
+  '\x94', # Cancel Character [Reverse double quote]
+  '\x95', # Message Waiting [Middle dot]
+  '\x96', # Start Of Guarded Area [High hyphen]
+  '\x97', # End Of Guarded Area [Double hyphen]
   '\x99', # Control 0099 [TM]
   '\xA0', # No-break space
+  # '\xA6', # Broken Bar [Split vertical bar]
+  # '\xAB', # Left-Pointing Double Angle Quotation Mark
+  # '\xBB', # Right-Pointing Double Angle Quotation Mark
   '\xBC', # Vulgar Fraction One Quarter
   '\xBD', # Vulgar Fraction One Half
   '\xBE', # Vulgar Fraction Three Quarters
-  # '\xA6', # Broken Bar [split vertical bar]
-  # '\xAB', # Left-Pointing Double Angle Quotation Mark
-  # '\xBB', # Right-Pointing Double Angle Quotation Mark
   # '\xBF', # Inverted Question Mark
-  # '\xA8', # Diaeresis [high double dot]
+  # '\xA8', # Diaeresis [High double dot]
   # '\xB1', # Plus-minus Sign
 
   # https://www.cs.tut.fi/~jkorpela/chars/spaces.html
