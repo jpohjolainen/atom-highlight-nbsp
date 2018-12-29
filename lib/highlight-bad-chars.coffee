@@ -17,15 +17,14 @@ chars = [
   # '\xA6', # Broken Bar [Split vertical bar]
   # '\xAB', # Left-Pointing Double Angle Quotation Mark
   # '\xBB', # Right-Pointing Double Angle Quotation Mark
-  '\xBC', # Vulgar Fraction One Quarter
-  '\xBD', # Vulgar Fraction One Half
-  '\xBE', # Vulgar Fraction Three Quarters
+  # '\xBC', # Vulgar Fraction One Quarter
+  # '\xBD', # Vulgar Fraction One Half
+  # '\xBE', # Vulgar Fraction Three Quarters
   # '\xBF', # Inverted Question Mark
   # '\xA8', # Diaeresis [High double dot]
   # '\xB1', # Plus-minus Sign
 
   # https://www.cs.tut.fi/~jkorpela/chars/spaces.html
-  #'\u00A0', # no-break space
   '\u1680', # ogham space mark
   '\u180E', # mongolian vowel separator
   '\u2000', # en quad
@@ -41,9 +40,9 @@ chars = [
   '\u200A', # hair space
   '\u200B', # zero width space
   '\u200D', # zero width joiner
-  '\u2013',  # en dash
-  '\u2014',  # em dash
-  '\u2028',  # line separator space
+  '\u2013', # en dash
+  '\u2014', # em dash
+  '\u2028', # line separator space
   '\u202F', # narrow no-break space
   '\u205F', # medium mathematical space
   '\u3000', # ideographic space
